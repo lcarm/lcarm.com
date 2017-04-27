@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>www.lcarm.com</title>
+<title>主题</title>
 </head>
 <body>
 
